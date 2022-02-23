@@ -133,17 +133,42 @@ header li {
 }
 
 #blue-div {
-  margin: 4rem auto;
+  margin: 6rem auto;
   background-color: #3882f6;
-  height: 6rem;
-  width: 40rem;
+  width: 800px;
+  padding: 1rem 1.5rem;
+  border-radius: 10px;
 }
 
-#blue-div ul {
-
+#blue-div p {
+  font-family: 'Roboto', sans-serif;
+  margin: 0.8rem 3rem;
+  color: #f9faf8;
 }
 
-#blue-div ul li {
-  
+#call {
+  font-weight: bold;
 }
 
+#sign-up-btn2 {
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  left: 38rem;
+  bottom: 3rem;
+  text-decoration: none;
+  color: #f9faf8;
+  border: 2px solid #f9faf8;
+  padding: 0.2rem 1.4rem;
+  border-radius: 6px;
+}
+
+footer {
+  background-color: #1f2937;
+  color: #f9faf8;
+  text-align: center;
+  padding: 1rem;
+}
+
+footer p {
+  font-family: 'Roboto', sans-serif;
+}
