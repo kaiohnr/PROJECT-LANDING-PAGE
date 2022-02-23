@@ -1,0 +1,149 @@
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#first-section {
+  background-color: #1f2937;
+}
+
+header {
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: space-around;
+}
+
+header h1 {
+  font-size: 24px;
+  color: #e5e7eb;
+}
+
+header ul {
+  display: flex;
+  list-style: none;
+}
+
+header li {
+  margin: 0 2rem;
+  font-size: 18px;
+  color: #e5e7eb;
+}
+
+#awesome-website {
+  margin: 6rem 12rem;
+  height: 400px;
+}
+
+#main-text {
+  font-size: 48px;
+  font-family: 'Roboto', sans-serif;
+  color: #f9faf8;
+  font-weight: bolder;
+  margin-bottom: 0;
+}
+
+#secondary-text {
+  font-size: 18px;
+  color: #e5e7eb;
+  font-family: 'Roboto', sans-serif;
+  margin-top: 4px;
+  font-weight: 300;
+}
+
+#sign-btn {
+  font-family: 'Roboto', sans-serif;
+  background-color: #3882f6;
+  color: #f9faf8;
+  padding: 0.5rem 2rem;
+  border-radius: 6px;
+  text-decoration: none;
+  display: block;
+  width: max-content;
+}
+
+#a380-img {
+  height: 300px;
+  width: 500px;
+  position: relative;
+  left: 500px;
+  bottom: 260px;
+  border-radius: 10px;
+}
+
+#secondary-section {
+  text-align: center;
+  margin-top: -50px;
+}
+
+#secondary-section h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0;
+}
+
+#secondary-section ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  margin: 4rem;
+}
+
+#secondary-section li {
+  margin: 0 2rem;
+  font-family: 'Roboto', sans-serif;
+}
+
+#secondary-section li p {
+  margin: 0.5rem;
+}
+
+.img-example {
+  height: 150px;
+  width: 150px;
+  border-radius: 6px;
+}
+
+#third-section {
+  padding: 2rem;
+  text-align: center;
+  background-color: #e5e7eb;
+}
+
+#quote {
+  font-size: 36px;
+  font-style: italic;
+  font-family: 'Roboto', sans-serif;
+  color: #1f2937;
+}
+
+#albert {
+  font-family: 'Roboto', sans-serif;
+  position: relative;
+  left: 250px;
+  top: 40px;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+#blue-div {
+  margin: 4rem auto;
+  background-color: #3882f6;
+  height: 6rem;
+  width: 40rem;
+}
+
+#blue-div ul {
+
+}
+
+#blue-div ul li {
+  
+}
+
